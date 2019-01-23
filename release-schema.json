@@ -11,7 +11,7 @@
         "amount": {
           "title": "Amount",
           "description": "Amount of the guarantee as a number",
-          "type": "float"
+          "type": "number"
         }
       },
       "currency": {

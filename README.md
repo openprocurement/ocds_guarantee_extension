@@ -11,7 +11,7 @@ It should be string value.
 It should be float value.
 # Examples
 The following extract illustrates these properties in use within the 
-`tender/guarantee` and `lots/guarantee` block.
+`tender/guarantee` and `lots/guarantee` blocks.
 ```
 {
     "tender": {
