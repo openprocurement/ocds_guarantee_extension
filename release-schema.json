@@ -12,12 +12,12 @@
           "title": "Amount",
           "description": "Amount of the guarantee as a number",
           "type": "number"
+        },
+        "currency": {
+          "title": "Currency",
+          "description": "Currency of the guarantee in a 3-letter ISO 4217 format.",
+          "type": "string"
         }
-      },
-      "currency": {
-        "title": "Currency",
-        "description": "Currency of the guarantee in a 3-letter ISO 4217 format.",
-        "type": "string"
       }
     },
     "Tender": {
